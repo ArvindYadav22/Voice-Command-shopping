@@ -60,10 +60,6 @@ Run the Backend (FastAPI)
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-
-Run the Streamlit App (text chat + audio upload)
-```
-streamlit run streamlit_app.py
 ```
 
 Run the Gradio App (text chat + microphone)
