@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-chroma
+openai
+chromadb
+python-dotenv
+streamlit
+faster-whisper
+torch
+torchaudio
+numpy
+soundfile
+pyaudio
+# streamlit-webrtc
+# streamlit-audio-recorder  # Not available on PyPI, using alternative approach
+python-multipart
+gradio

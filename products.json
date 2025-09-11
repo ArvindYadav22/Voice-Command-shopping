@@ -1,0 +1,33 @@
+{
+  "grocery": [
+    {"name": "milk", "price": 40, "unit": "1L"},
+    {"name": "bread", "price": 30, "unit": "1 loaf"},
+    {"name": "eggs", "price": 60, "unit": "12 pcs"},
+    {"name": "apples", "price": 120, "unit": "1 kg"},
+    {"name": "rice", "price": 55, "unit": "1 kg"}
+  ],
+  "beverages": [
+    {"name": "tea", "price": 150, "unit": "500g"},
+    {"name": "coffee", "price": 250, "unit": "200g"},
+    {"name": "orange juice", "price": 80, "unit": "1L"},
+    {"name": "mineral water", "price": 20, "unit": "1L"}
+  ],
+  "snacks": [
+    {"name": "potato chips", "price": 30, "unit": "1 pack"},
+    {"name": "biscuits", "price": 25, "unit": "1 pack"},
+    {"name": "chocolate", "price": 50, "unit": "1 bar"},
+    {"name": "popcorn", "price": 40, "unit": "1 pack"}
+  ],
+  "electronics": [
+    {"name": "earphones", "price": 500, "unit": "1 pc"},
+    {"name": "smartphone", "price": 15000, "unit": "1 pc"},
+    {"name": "laptop", "price": 50000, "unit": "1 pc"},
+    {"name": "power bank", "price": 1200, "unit": "1 pc"}
+  ],
+  "household": [
+    {"name": "detergent", "price": 80, "unit": "1 kg"},
+    {"name": "soap", "price": 25, "unit": "1 bar"},
+    {"name": "shampoo", "price": 180, "unit": "500 ml"},
+    {"name": "toothpaste", "price": 90, "unit": "200 g"}
+  ]
+}
