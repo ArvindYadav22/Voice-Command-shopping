@@ -59,14 +59,12 @@ Run the Backend (FastAPI)
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-```
-
 Run the Gradio App (text chat + microphone)
 ```
 python gradio_app.py
 ```
 
-```
+
 
 API Endpoints (summary)
 - GET /items_dropdown: grouped items for the UI
