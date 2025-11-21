@@ -29,17 +29,6 @@
     {"name": "soap", "price": 25, "unit": "1 bar"},
     {"name": "shampoo", "price": 180, "unit": "500 ml"},
     {"name": "toothpaste", "price": 90, "unit": "200 g"}
-  ],
-  "vegetables": [
-    {"name": "tomatoes", "price": 40, "unit": "1 kg"},
-    {"name": "potatoes", "price": 30, "unit": "1 kg"},
-    {"name": "onions", "price": 35, "unit": "1 kg"},
-    {"name": "carrots", "price": 50, "unit": "1 kg"}
-  ],
-  "personal_care": [
-    {"name": "face wash", "price": 120, "unit": "100 ml"},
-    {"name": "body lotion", "price": 200, "unit": "300 ml"},
-    {"name": "hair oil", "price": 90, "unit": "100 ml"},
-    {"name": "deodorant", "price": 150, "unit": "150 ml"}
   ]
+  
 }
