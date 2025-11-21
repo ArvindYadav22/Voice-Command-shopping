@@ -1,7 +1,6 @@
 Voice Shopping Assistant
 ========================
 
-Demo video: https://youtu.be/fTVNupzqroQ
 
 Short, practical guide to run a voice- and chat-enabled shopping assistant with Streamlit and Gradio frontends backed by a FastAPI API. Users can browse products, manage a cart, type messages, or speak commands that are transcribed and processed by the backend.
 
