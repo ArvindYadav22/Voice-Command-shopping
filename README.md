@@ -56,11 +56,13 @@ pip install -r requirements.txt
 
 Run the Backend (FastAPI)
 ```
+.\venv\Scripts\activate
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
 Run the Gradio App (text chat + microphone)
 ```
+.\venv\Scripts\activate
 python gradio_app.py
 ```
 
